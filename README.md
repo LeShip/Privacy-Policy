@@ -15,4 +15,6 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards.
 
+Any information collected through 3rd party systems (AdMob and Facebook) are intented for statistical analysis. There will be no personal data collected nor used for the further developement of the game and/or company.
+
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at leshipcontact@gmail.com.
